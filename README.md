@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, soy Emmanuel</h1>
 <h3 align="center">Un desarrollador frontend apasionado de Colombia</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=emmanueles1993&label=Profile%20views&color=0e75b6&style=flat" alt="emmanueles1993" /> </p>
-
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trofeo"><img src="https://github-profile-trofeo.vercel.app/?username=emmanueles1993" alt="emmanueles1993" /></a > </p>
 
 - 🌱 Actualmente estoy aprendiendo **Javascript, ReactJs**
 
