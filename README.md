@@ -20,30 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanueles1993&show_icons=true&locale=en&layout=compact" alt="emmanueles1993" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanueles1993&show_icons=true&locale=en" alt="emmanueles1993" /> </p>
-
-Apoyo  🙏
-¿Está utilizando la herramienta y está satisfecho con ella para crear su perfil de GitHub?
-Su amable apoyo hace que las herramientas de código abierto como esta sean gratuitas para otros.
-tweet github profile readme generator
-Deja que el mundo sepa cómo te sientes usando esta herramienta. Comparte con otros en twitter.
-Consejo 💰
-Comprar ko-fi para rahuldkjain
-Cómprame un ko-fi
-Donar rahuldkjain a través de paypal
-Buy rahuldkjain A Coffee
-Cómprame un café
-logotipo del generador de rebajas de perfil de github
-Generador LÉAME del perfil de GitHub
-Paginas
-Complementos
-Apoyo
-Acerca de
-Más
-Github
-Lanzamientos
-Cuestiones
-Solicitudes de extracción
-Únete a la comunidad
-discordia de la comunidad
-Desarrollado en India 🇮🇳
-Cómprame un café
