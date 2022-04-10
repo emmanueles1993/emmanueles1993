@@ -1,19 +1,3 @@
-logotipo del generador de rebajas de perfil de github
-Generador LÉAME del perfil de GitHub
-Destacar este repositorio
-9249
-Bifurcación en GitHub
-2113
-
-volver a editar
-
-copia-rebaja
-
-descuento de descarga
-
-descargar copia de seguridad
-
-avance
 <h1 align="center">Hola 👋, soy Emmanuel</h1>
 <h3 align="center">Un desarrollador frontend apasionado de Colombia</h3>
 
