@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanueles1993" alt="emmanueles1993" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Aws**
 
 - 👨‍💻 All of my projects are available at [https://portafolioonline.herokuapp.com/](https://portafolioonline.herokuapp.com/)
 
