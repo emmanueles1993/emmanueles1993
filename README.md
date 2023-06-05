@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanueles1993" alt="emmanueles1993" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, ReactJs**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://portafolioonline.herokuapp.com/](https://portafolioonline.herokuapp.com/)
 
-- 💬 Ask me about **javascript, ReactJs, MongoDb, MYSQL**
+- 💬 Ask me about **javascript, linux, MongoDb, MYSQL**
 
 - 📫 How to reach me **emmanueles1993@hotmail.com**
 
